@@ -44,7 +44,8 @@
 
 ### Блок-схема алгоритма
 
-![Блок-схема алгоритма](block_scheme.png)
+<img width="460" height="961" alt="Диаграмма без названия drawio (1)" src="https://github.com/user-attachments/assets/aac7f265-3ded-41c2-86c7-3e15bb55dfc9" />
+
 
 ## 2. Контрольный пример: ручной расчёт
 
